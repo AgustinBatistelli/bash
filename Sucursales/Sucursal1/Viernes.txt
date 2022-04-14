@@ -1,0 +1,4 @@
+Producto|CantidadVendida|TotalRecaudado
+CocaCola|100|2000
+Fanta|100|1500
+Sprite|100|1800
